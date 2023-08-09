@@ -51,7 +51,6 @@
 <br />
 
 <p><a href="https://github.com/sudarshanan-muthukumar#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sudarshanan-muthukumar&theme=nightowl#gh-dark-mode-only" alt="sudarshanan-muthukumar" /></a>
-<a href="https://github.com/sudarshanan-muthukumar#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sudarshanan-muthukumar&theme=vue#gh-light-mode-only" alt="sudarshanan-muthukumar" /></a></p>
 <br/>
 
 ---
