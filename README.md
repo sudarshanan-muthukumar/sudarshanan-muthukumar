@@ -1,10 +1,5 @@
 <h1> Sudarshanan Muthukumar</h1>
 <br /> 
-
-                    
-
-                    
-
 <p align="left"></p>
 <p align="left"> 
   <a href="https://github.com/sudarshanan-muthukumar?tab=repositories&sort=stargazers#gh-light-mode-only">
@@ -69,7 +64,5 @@
 
 <h2>Connect With Me</h2> 
 <p align="left">
-<a href="https://twitter.com/" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" /></a>
-<a href="https://instagram.com/" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" /></a>
 <a href="https://www.linkedin.com/in/sudarshanan-muthukumar-83b481250/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
