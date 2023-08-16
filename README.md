@@ -28,14 +28,14 @@
 
                     
 
-<p><a href="https://github.com/sudarshanan-muthukumar#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanan-muthukumar&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="sudarshanan-muthukumar" /></a>
-  <a href="https://github.com/sudarshanan-muthukumar#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanan-muthukumar&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="sudarshanan-muthukumar" /></a>
+<p><a href="https://github.com/sudarshanan-muthukumar#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudarshanan-muthukumar&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="sudarshanan-muthukumar" /></a>
+  <a href="https://github.com/sudarshanan-muthukumar#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudarshanan-muthukumar&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="sudarshanan-muthukumar" /></a>
 </p>
 
 <br />
 
-<p>&nbsp;<a href="https://github.com/sudarshanan-muthukumar#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sudarshanan-muthukumar&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="sudarshanan-muthukumar" /></a>
-<a href="https://github.com/sudarshanan-muthukumar#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sudarshanan-muthukumar&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="sudarshanan-muthukumar" /></a>
+<p>&nbsp;<a href="https://github.com/sudarshanan-muthukumar#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sudarshanan-muthukumar&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="sudarshanan-muthukumar" /></a>
+<a href="https://github.com/sudarshanan-muthukumar#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sudarshanan-muthukumar&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="sudarshanan-muthukumar" /></a>
 </p> 
 <br>
 <br />
@@ -55,8 +55,8 @@
 
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/sudarshanan-muthukumar/Optical-Recognition-of-digits#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudarshanan-muthukumar&repo=Optical-Recognition-of-digits&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/sudarshanan-muthukumar/Optical-Recognition-of-digits#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudarshanan-muthukumar&repo=Optical-Recognition-of-digits&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/sudarshanan-muthukumar/Optical-Recognition-of-digits#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sudarshanan-muthukumar&repo=Optical-Recognition-of-digits&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/sudarshanan-muthukumar/Optical-Recognition-of-digits#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sudarshanan-muthukumar&repo=Optical-Recognition-of-digits&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 
